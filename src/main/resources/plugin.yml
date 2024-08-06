@@ -1,0 +1,7 @@
+name: Blockheaven-VerificationSystem
+version: '${project.version}'
+main: net.blockheaven.blockheavenverificationsystem.Blockheaven_VerificationSystem
+api-version: '1.21'
+
+commands:
+  verfiy:
